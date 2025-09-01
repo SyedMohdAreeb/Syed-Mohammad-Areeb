@@ -22,11 +22,6 @@ Exploring data, uncovering insights, solving complex problems, and delivering ac
 
 ---
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
----
-
 ### 🌱 Currently Learning  
 📘 Advanced Data Analytics, Business Intelligence, and Machine Learning Fundamentals  
 
@@ -34,13 +29,13 @@ Exploring data, uncovering insights, solving complex problems, and delivering ac
 
 ### 📬 How to Reach Me  
 📧 Email: **syedareebhashmi91@gmail.com**  
-📍 Location: **India**  
+📍 Location: **Ghaziabad, India**  
 
 ---
 
 ### 🌐 Connect With Me  
 <p align="left">
-<a href="www.linkedin.com/in/syed-mohammad-areeb-sareeb" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/syed-mohammad-areeb-sareeb/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40" /></a>
 <a href="https://www.instagram.com/im_syedareeb_/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="40" width="40" /></a>
 <a href="mailto:syedareebhashmi91@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="40" width="40" /></a>
 </p>
