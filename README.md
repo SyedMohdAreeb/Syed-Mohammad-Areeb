@@ -41,9 +41,6 @@ Exploring data, uncovering insights, solving complex problems, and delivering ac
 </p>
 
 ---
-
-<img align="right" alt="data" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/data-analysis-illustration-download-in-svg-png-gif-file-formats--analyzing-marketing-business-analytics-pack-illustrations-5695260.png" />
-
 ---
 
 ⭐️ **"Data tells a story, and I’m here to narrate it with insights."**
